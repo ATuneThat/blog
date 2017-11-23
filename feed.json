@@ -5,6 +5,7 @@
     "home_page_url": "http://atunethat.com",
     "feed_url": "http://atunethat.com/feed.json",
     "user_comment": "",
+    "icon": "http://atunethat.com/media/website/a-tune-that-Logga.jpg",
     "author": {
         "name": "Roo"
     },
@@ -21,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2017-11-17T10:52:18+01:00",
-            "date_modified": "2017-11-17T15:14:36+01:00"
+            "date_modified": "2017-11-23T21:48:31+01:00"
         }
     ]
 }

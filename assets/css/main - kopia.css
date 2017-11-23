@@ -75,13 +75,14 @@ html {
 body {
   background: #ffffff;
   color: #111111;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Nunito", serif;
   font-weight: 300;
   line-height: 1.6;
   overflow-x: hidden; }
 
 a {
-  color: #111111;
+  color: #6B78B4;
+  text-decoration: none;
   -webkit-transition: all 0.12s linear 0s;
   -o-transition: all 0.12s linear 0s;
   transition: all 0.12s linear 0s; }
@@ -138,13 +139,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Indie Flower', cursive;
+  font-family: "Yanone Kaffeesatz", sans-serif;
   font-weight: 300;
   letter-spacing: 0.03rem;
   line-height: 1.2;
   margin-top: calc(2.25rem + 0.5vw);
-  text-transform: uppercase; 
- }
+  text-transform: uppercase; }
 
 h1 {
   margin: 0.5rem 0 1.5rem; }
@@ -928,7 +928,6 @@ textarea {
       margin-left: calc(-50vw + 50%);
       margin-right: calc(-50vw + 50%); } }
   .hero > header {
-	font-size: 1.5rem;
     color: #ffffff;
     max-width: 64rem;
     padding: 0 4%;
@@ -1108,7 +1107,8 @@ textarea {
     .card__header > h2 {
       font-weight: 400;
       margin-top: 0.5rem; }
-      .card__header > h2 > a {}
+      .card__header > h2 > a {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
         .card__header > h2 > a {
           color: #ffffff;
           text-decoration: none;
@@ -1204,7 +1204,6 @@ textarea {
 .post__share {
   margin: 2.75rem 0; }
   .post__share > a {
-	text-decoration:none;
     color: #ffffff;
     display: inline-block;
     font: 400 0.67893rem "Nunito", serif;
