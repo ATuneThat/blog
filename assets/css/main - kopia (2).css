@@ -977,7 +977,7 @@ textarea {
       @media all and (max-width: 56.1875em) {
         .hero > figure > img,
         .hero > div > img {
-			max-height: 20rem;
+			min-height: 20rem;
 			-o-object-fit: cover;
 			object-fit: cover;
 		} 
@@ -1003,28 +1003,11 @@ textarea {
       -ms-transform: translate(-50%, 0);
       transform: translate(-50%, 0); }
 
-article.post h1{
-	/*display:inline-block;*/
-	/*max-width:30rem;*/
-}
-	  
-article.post h1, article.post header
+article.post h1
 {
-color: red;
--webkit-text-stroke: 1px black;
--webkit-text-fill-color: red;
+	color: #006600;
+	text-shadow: 1px 1px 1px #fff;
 }
-article.post .hero {
-	background-color:#fff;
-	background-color:transparent;
-	opacity:1;
-	
-}
-article.post .hero > figure > img
-{
-	opacity:1;
-}
-
   .post__featured-image .blur-up
   {}	  
 	  
@@ -1567,25 +1550,4 @@ section.hero p {
         -ms-transform: rotate(-45deg);
         transform: rotate(-45deg); } }
 
-@media all and (max-width: 37.4375em) {
-	.spotifyembed{
-		text-align: center;
-	}
-	.posttext{
-		float:left;
-		width:100%;
-	}
-}
-@media all and (min-width: 37.5em) {
-	.spotifyembed{
-		float:left;
-		margin-top:0.5rem;
-		margin-right:0.5rem;
-	}
-	.posttext{
-		float:right;
-		width:50%;
-	}
-}
-		
 /*# sourceMappingURL=main.css.map */
