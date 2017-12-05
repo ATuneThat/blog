@@ -3,12 +3,35 @@
     <title>a-tune-that</title>
     <link href="http://atunethat.com/feed.xml" rel="self" />
     <link href="http://atunethat.com" />
-    <updated>2017-12-04T08:17:56+01:00</updated>
+    <updated>2017-12-05T07:12:03+01:00</updated>
     <author>
         <name>Roo</name>
     </author>
     <id>http://atunethat.com</id>
 
+    <entry>
+        <title>Top tunes 2017 #8</title>
+        <author>
+            <name>ATuneThat</name>
+        </author>
+        <link href="http://atunethat.com/top-albums-2017-danny-vera-snow-in-april.html"/>
+        <id>http://atunethat.com/top-albums-2017-danny-vera-snow-in-april.html</id>
+            <category term="Yule Calendar"/>
+            <category term="2017"/>
+
+        <updated>2017-12-05T15:35:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://atunethat.com/media/posts/7/julkalender.png" alt="" />
+                <h3 class="align-center">Danny Vera - Snow in April</h3>
+<br>
+<div class="posttext">Does dutch political crooner intrigue you? Well it should. Danny Vega has with this big band jazz tune created something that we think everybody should be humming on right now. He puts his finger in that nasty wound that just won&rsquo;t heal and pokes around. He does this to a perfect big band jazz backdrop, in such a way that you almost don&rsquo;t feel the pain. The smooth singing, wound picking dutchman is our pick as number eight on our top list.</div>
+<div class="spotifyembed"><iframe width="300" height="380" src="https://open.spotify.com/embed/track/0FbPAkJx0xe6FfGHO5loBd" frameborder="0" allowtransparency="true"></iframe></div>
+<div style="clear: both;">&nbsp;</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Top albums 2017 #9</title>
         <author>
