@@ -3,12 +3,35 @@
     <title>a-tune-that</title>
     <link href="http://atunethat.com/feed.xml" rel="self" />
     <link href="http://atunethat.com" />
-    <updated>2017-12-05T08:09:41+01:00</updated>
+    <updated>2017-12-06T08:10:04+01:00</updated>
     <author>
         <name>Roo</name>
     </author>
     <id>http://atunethat.com</id>
 
+    <entry>
+        <title>Top albums 2017 #8</title>
+        <author>
+            <name>ATuneThat</name>
+        </author>
+        <link href="http://atunethat.com/top-albums-2017-the-dirty-nil-minimum-rb.html"/>
+        <id>http://atunethat.com/top-albums-2017-the-dirty-nil-minimum-rb.html</id>
+            <category term="Yule Calendar"/>
+            <category term="2017"/>
+
+        <updated>2017-12-06T15:38:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://atunethat.com/media/posts/8/julkalender.png" alt="" />
+                <h3 class="align-center">The Dirty Nil - Minimum R&amp;B</h3>
+<br>
+<div class="posttext">If Jack White and Rivers Cuomo had triplets and left them to be raised by Dee Dee Ramone - well then you probably would have something that sounds like The Dirty Nil. It only features one new song for the year, but if the songs are this awesome it&rsquo;s still deserves it place on the list. Fuck Up Young is up there with the really great punk tunes. Minimum R&amp;B, perhaps, but maximum punk rock! We can&rsquo;t stop stomping our feets.</div>
+<div class="spotifyembed"><iframe width="300" height="380" src="https://open.spotify.com/embed/album/6WOEkjp3gcktvZsr3YmbMI" frameborder="0" allowtransparency="true"></iframe></div>
+<div style="clear: both;">&nbsp;</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Top tunes 2017 #8</title>
         <author>
