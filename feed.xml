@@ -3,12 +3,35 @@
     <title>a-tune-that</title>
     <link href="http://atunethat.com/feed.xml" rel="self" />
     <link href="http://atunethat.com" />
-    <updated>2017-12-06T08:37:39+01:00</updated>
+    <updated>2017-12-07T08:18:07+01:00</updated>
     <author>
         <name>Roo</name>
     </author>
     <id>http://atunethat.com</id>
 
+    <entry>
+        <title>Top tunes 2017 #7</title>
+        <author>
+            <name>ATuneThat</name>
+        </author>
+        <link href="http://atunethat.com/top-tunes-2017-fever-ray-wanna-sip.html"/>
+        <id>http://atunethat.com/top-tunes-2017-fever-ray-wanna-sip.html</id>
+            <category term="Yule Calendar"/>
+            <category term="2017"/>
+
+        <updated>2017-12-07T15:43:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://atunethat.com/media/posts/9/julkalender.png" alt="" />
+                <h3 class="align-center">Fever Ray - Wanna Sip</h3>
+<br>
+<div class="posttext">Karin Dreijer hasn&rsquo;t sounded this menacing in a while. Sure some of her lyrics are even more aggressive than this but the pure brutality of the soundscape she creates on Wanna Sip should make it impossible for the tune to be even remotely as catchy as it is. Wanna Sip demands to be heard in every possible way and we sure hope that people do listen. It&rsquo;s self evident that this tune makes the top 10 where it holds down the 7th spot by the neck.</div>
+<div class="spotifyembed"><iframe width="300" height="380" src="https://open.spotify.com/embed/track/2sr67lIybeEr72VvmhAmkn" frameborder="0" allowtransparency="true"></iframe></div>
+<div style="clear: both;">&nbsp;</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Top albums 2017 #8</title>
         <author>
