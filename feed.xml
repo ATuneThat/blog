@@ -3,12 +3,35 @@
     <title>a-tune-that</title>
     <link href="http://atunethat.com/feed.xml" rel="self" />
     <link href="http://atunethat.com" />
-    <updated>2017-12-08T07:43:37+01:00</updated>
+    <updated>2017-12-09T10:33:18+01:00</updated>
     <author>
         <name>Roo</name>
     </author>
     <id>http://atunethat.com</id>
 
+    <entry>
+        <title>Top tunes 2017 #6</title>
+        <author>
+            <name>ATuneThat</name>
+        </author>
+        <link href="http://atunethat.com/top-tunes-2017-jade-bird-good-woman.html"/>
+        <id>http://atunethat.com/top-tunes-2017-jade-bird-good-woman.html</id>
+            <category term="Yule Calendar"/>
+            <category term="2017"/>
+
+        <updated>2017-12-09T10:32:55+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://atunethat.com/media/posts/11/julkalender.png" alt="" />
+                <h3 class="align-center">Jade Bird - Good Woman</h3>
+<br>
+<div class="posttext">We are neither Buddhist nor Hindu but young Ms. Bird is irrefutable proof of reincarnation. That voice, the delivery, the songwriting, the voice, the strumming, that voice ...did we mention the voice. If someone emulated Janis Joplin it would still only be a copy but Jade Bird clearly IS Joplin; soon to turn 75 but somehow trapped in the body of a young British woman. One can tell since Jadis Birdjoplin is even writing just as brilliant but perhaps slightly more mature lyrics. Good Woman is our #6 song of the year.</div>
+<div class="spotifyembed"><iframe width="300" height="380" src="https://open.spotify.com/embed/track/0veTuOVnO1hWPJITgnhLBG" frameborder="0" allowtransparency="true"></iframe></div>
+<div style="clear: both;">&nbsp;</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Top albums 2017 #7</title>
         <author>
