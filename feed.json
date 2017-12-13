@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "http://atunethat.com/viktor-honourable-mentions-albums-2017.html",
+            "url": "http://atunethat.com/viktor-honourable-mentions-albums-2017.html",
+            "title": "Viktor: Top albums honourable mentions",
+            "content_html": "<h3 class=\"align-center\">Viktor&rsquo;s honourable mentions;&nbsp;albums</h3>\n<br>\n<div class=\"posttext\"><span style=\"font-weight: 400;\">Here are some great albums from 2017 that for some reason didn't make the list. A fair bunch of these are actually some of my personal favorites from the year but since the top 10 list is a joint effort I only nominated albums that I think fit our shared vision of what ATuneThat is all about.. Others like Rainer Maria just narrowly missed out due to tiebreakers. Nevertheless I want to take this opportunity to highlight these albums now:</span></div>\n<div class=\"spotifyembed tmphere\"><iframe width=\"300\" height=\"75\" src=\"https://open.spotify.com/embed/album/6lYuMG39PVxrjDYW3q48lS\" frameborder=\"0\" allowtransparency=\"true\"></iframe> <br> <iframe width=\"300\" height=\"75\" src=\"https://open.spotify.com/embed/track/1JAfKndWY7GsCj1nSTWjVx\" frameborder=\"0\" allowtransparency=\"true\"></iframe> <br> <iframe width=\"300\" height=\"75\" src=\"https://open.spotify.com/embed/album/1cvuHdIuQf4Ij4caODhZPb\" frameborder=\"0\" allowtransparency=\"true\"></iframe> <br> <iframe width=\"300\" height=\"75\" src=\"https://open.spotify.com/embed/album/0DhMSZBgfiDgyudnQ7kxbU\" frameborder=\"0\" allowtransparency=\"true\"></iframe> <br> <iframe width=\"300\" height=\"75\" src=\"https://open.spotify.com/embed/album/3OA1DE3jTcTNOst4CGAlGx\" frameborder=\"0\" allowtransparency=\"true\"></iframe> <br> <iframe width=\"300\" height=\"75\" src=\"https://open.spotify.com/embed/album/3Mp0TZs7hlVdjUO0LVTlqh\" frameborder=\"0\" allowtransparency=\"true\"></iframe> <br> <iframe width=\"300\" height=\"75\" src=\"https://open.spotify.com/embed/album/0QtMsHKcgbMyofNvjWUh6l\" frameborder=\"0\" allowtransparency=\"true\"></iframe> <br> <iframe width=\"300\" height=\"75\" src=\"https://open.spotify.com/embed/album/2eo8OwibPK06ZoHmIAfClG\" frameborder=\"0\" allowtransparency=\"true\"></iframe> <br> <iframe width=\"300\" height=\"75\" src=\"https://open.spotify.com/embed/album/2T64N96AVfsrRFJCUXQEoZ\" frameborder=\"0\" allowtransparency=\"true\"></iframe><iframe width=\"300\" height=\"200\" src=\"https://www.youtube.com/embed/E0R5u6UG0L8\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<div style=\"clear: both;\">&nbsp;</div>",
+            "image": "http://atunethat.com/media/posts/16/julkalender.png",
+            "author": {
+                "name": "ATuneThat"
+            },
+            "tags": [
+                   "Yule Calendar",
+                   "2017"
+            ],
+            "date_published": "2017-12-13T20:00:00+01:00",
+            "date_modified": "2017-12-13T20:00:00+01:00"
+        },
+        {
             "id": "http://atunethat.com/viktor-honourable-mentions-tunes-2017.html",
             "url": "http://atunethat.com/viktor-honourable-mentions-tunes-2017.html",
             "title": "Viktor: Top tunes honourable mentions",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2017-12-04T15:30:00+01:00",
             "date_modified": "2017-12-04T15:30:00+01:00"
-        },
-        {
-            "id": "http://atunethat.com/top-albums-2017-younger-lovers-whiskey-and-water.html",
-            "url": "http://atunethat.com/top-albums-2017-younger-lovers-whiskey-and-water.html",
-            "title": "Top tunes 2017 #9",
-            "content_html": "<h3 class=\"align-center\">Younger Lovers - Whiskey and Water</h3>\n<br>\n<div class=\"posttext\">Don't say we never pick tunes you can dance to. Not after this anyway. If your heart holds, but the tiniest part of indie love - you will have those involuntary spasms, we call dancing - when you listen to this song. The singer has such a wonderful carefree way of singing and the guitar riff is just perfect, the tune is&nbsp;just great. We love the lo-fi production and we are in love with The Younger Lovers and their Whiskey and Water. That's the 9:th best tune this year, enjoy!</div>\n<div class=\"spotifyembed\"><iframe width=\"300\" height=\"380\" src=\"https://open.spotify.com/embed/track/1tSz4d9WtSC1Jvz6QSAqRi\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n<div style=\"clear: both;\">&nbsp;</div>",
-            "image": "http://atunethat.com/media/posts/5/julkalender.png",
-            "author": {
-                "name": "ATuneThat"
-            },
-            "tags": [
-                   "Yule Calendar",
-                   "2017"
-            ],
-            "date_published": "2017-12-03T08:36:00+01:00",
-            "date_modified": "2017-12-03T08:58:19+01:00"
         }
     ]
 }
