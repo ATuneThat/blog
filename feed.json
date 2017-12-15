@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "http://atunethat.com/top-tunes-2017-cende-what-i-want.html",
+            "url": "http://atunethat.com/top-tunes-2017-cende-what-i-want.html",
+            "title": "Top tunes 2017 #5",
+            "content_html": "<h3 class=\"align-center\">Cende - What I Want</h3>\n<br>\n<div class=\"posttext\">When you&rsquo;ve crafted such a great melody as Cende has on this track, it&rsquo;s totally understandable that they lend it to another tune on the same album. That is perfectly alright. The melody is exquisite, and the dynamic between Cameron Wisch and Greta Kline&rsquo;s voices, is just perfect. This is an all you can wish for indie rock tune, and it is shining on the fifth place on this top list of ours.</div>\n<div class=\"spotifyembed\"><iframe width=\"300\" height=\"380\" src=\"https://open.spotify.com/embed/track/7Cg84GbvvQxKkZOXRjKQKw\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n<div style=\"clear: both;\">&nbsp;</div>",
+            "image": "http://atunethat.com/media/posts/18/julkalender.png",
+            "author": {
+                "name": "ATuneThat"
+            },
+            "tags": [
+                   "Yule Calendar",
+                   "2017"
+            ],
+            "date_published": "2017-12-15T20:26:00+01:00",
+            "date_modified": "2017-12-15T20:26:00+01:00"
+        },
+        {
             "id": "http://atunethat.com/roo-honourable-mentions-albums-2017.html",
             "url": "http://atunethat.com/roo-honourable-mentions-albums-2017.html",
             "title": "Roo: Top albums honourable mentions",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2017-12-06T15:38:00+01:00",
             "date_modified": "2017-12-06T15:38:00+01:00"
-        },
-        {
-            "id": "http://atunethat.com/top-albums-2017-danny-vera-snow-in-april.html",
-            "url": "http://atunethat.com/top-albums-2017-danny-vera-snow-in-april.html",
-            "title": "Top tunes 2017 #8",
-            "content_html": "<h3 class=\"align-center\">Danny Vera - Snow in April</h3>\n<br>\n<div class=\"posttext\">Does dutch political crooner intrigue you? Well it should. Danny Vera has with this big band jazz tune created something that we think everybody should be humming on right now. He puts his finger in that nasty wound that just won&rsquo;t heal and pokes around. He does this to a perfect big band jazz backdrop, in such a way that you almost don&rsquo;t feel the pain. The smooth singing, wound picking dutchman is our pick as number eight on our top list.</div>\n<div class=\"spotifyembed\"><iframe width=\"300\" height=\"380\" src=\"https://open.spotify.com/embed/track/0FbPAkJx0xe6FfGHO5loBd\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n<div style=\"clear: both;\">&nbsp;</div>",
-            "image": "http://atunethat.com/media/posts/7/julkalender.png",
-            "author": {
-                "name": "ATuneThat"
-            },
-            "tags": [
-                   "Yule Calendar",
-                   "2017"
-            ],
-            "date_published": "2017-12-05T15:35:00+01:00",
-            "date_modified": "2017-12-05T15:35:00+01:00"
         }
     ]
 }
