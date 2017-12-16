@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "http://atunethat.com/top-albums-2017-godspeed-you-luciferian-tower.html",
+            "url": "http://atunethat.com/top-albums-2017-godspeed-you-luciferian-tower.html",
+            "title": "Top albums 2017 #5",
+            "content_html": "<h3 class=\"align-center\">Godspeed You! You Black Emperor - Luciferian Tower</h3>\n<br>\n<div class=\"posttext\">Much of the most anticipated as well as celebrated releases of 2017 where in some way shape or form related to Post-Rock. We had new releases from both Mogwai and Do Make Say Think as well as releases by electronical outfits bordering on Post-Rock such as Forest Swords as well as Bonobo. All excellent and surely worthy of this list were it not for Luciferian Tower just barging in, shoving the others to the side. 24 years into their career this is only Godspeed You! Black Emperor&rsquo;s 6th studio album. It would seem that they employ fairly strict quality controls on their material.</div>\n<div class=\"spotifyembed\"><iframe width=\"300\" height=\"380\" src=\"https://open.spotify.com/embed/album/2eOMttZbB9lBc9LLMj56xj\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n<div style=\"clear: both;\">&nbsp;</div>",
+            "image": "http://atunethat.com/media/posts/19/julkalender.png",
+            "author": {
+                "name": "ATuneThat"
+            },
+            "tags": [
+                   "Yule Calendar",
+                   "2017"
+            ],
+            "date_published": "2017-12-16T20:29:00+01:00",
+            "date_modified": "2017-12-16T20:29:00+01:00"
+        },
+        {
             "id": "http://atunethat.com/top-tunes-2017-cende-what-i-want.html",
             "url": "http://atunethat.com/top-tunes-2017-cende-what-i-want.html",
             "title": "Top tunes 2017 #5",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2017-12-07T15:43:00+01:00",
             "date_modified": "2017-12-07T15:43:00+01:00"
-        },
-        {
-            "id": "http://atunethat.com/top-albums-2017-the-dirty-nil-minimum-rb.html",
-            "url": "http://atunethat.com/top-albums-2017-the-dirty-nil-minimum-rb.html",
-            "title": "Top albums 2017 #8",
-            "content_html": "<h3 class=\"align-center\">The Dirty Nil - Minimum R&amp;B</h3>\n<br>\n<div class=\"posttext\">If Jack White and Rivers Cuomo had triplets and left them to be raised by Dee Dee Ramone - well then you probably would have something that sounds like The Dirty Nil. It only features one new song for the year, but if the songs are this awesome it&rsquo;s still deserves it place on the list. Fuck Up Young is up there with the really great punk tunes. Minimum R&amp;B, perhaps, but maximum punk rock! We can&rsquo;t stop stomping our feets.</div>\n<div class=\"spotifyembed\"><iframe width=\"300\" height=\"380\" src=\"https://open.spotify.com/embed/album/6WOEkjp3gcktvZsr3YmbMI\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n<div style=\"clear: both;\">&nbsp;</div>",
-            "image": "http://atunethat.com/media/posts/8/julkalender.png",
-            "author": {
-                "name": "ATuneThat"
-            },
-            "tags": [
-                   "Yule Calendar",
-                   "2017"
-            ],
-            "date_published": "2017-12-06T15:38:00+01:00",
-            "date_modified": "2017-12-06T15:38:00+01:00"
         }
     ]
 }
