@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "http://atunethat.com/top-albums-2017-mounika-how-are-you.html",
+            "url": "http://atunethat.com/top-albums-2017-mounika-how-are-you.html",
+            "title": "Top albums 2017 #4",
+            "content_html": "<h3 class=\"align-center\">Mounika - How Are You</h3>\n<br>\n<div class=\"posttext\">Mounika has created an almost unique soundscape on this tremendous album. He deconstructs sounds and rebuilds them, the outcome is a lovely trip. It&rsquo;s not only the sound he plays with, it&rsquo;s also our nostalgia and our brains little safe place. It&rsquo;s a little like coming home. Cut My Hair could easily have been on our tunes list, but the album is so good it deserves it&rsquo;s place here. Mounika - How Are You is our 4th best album this year, with this fantastic chill-hop album.</div>\n<div class=\"spotifyembed\"><iframe width=\"300\" height=\"380\" src=\"https://open.spotify.com/embed/album/6Lyjbk8BJ0LyXkd7V70tUV\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n<div style=\"clear: both;\">&nbsp;</div>",
+            "image": "http://atunethat.com/media/posts/21/julkalender.png",
+            "author": {
+                "name": "ATuneThat"
+            },
+            "tags": [
+                   "Yule Calendar",
+                   "2017"
+            ],
+            "date_published": "2017-12-18T20:37:00+01:00",
+            "date_modified": "2017-12-18T20:37:00+01:00"
+        },
+        {
             "id": "http://atunethat.com/top-tunes-2017-otoboke-beaver-mean.html",
             "url": "http://atunethat.com/top-tunes-2017-otoboke-beaver-mean.html",
             "title": "Top tunes 2017 #4",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2017-12-09T10:28:34+01:00",
             "date_modified": "2017-12-09T10:32:55+01:00"
-        },
-        {
-            "id": "http://atunethat.com/top-albums-2017-sweet-years-coat-guts.html",
-            "url": "http://atunethat.com/top-albums-2017-sweet-years-coat-guts.html",
-            "title": "Top albums 2017 #7",
-            "content_html": "<h3 class=\"align-center\">Sweet Years - Coat Guts</h3>\n<br>\n<div class=\"posttext\">Sometimes we are really happy that we are living in the times we do. An album like Coat Guts from a band with no hype and not much media exposure - would have flown us by in older times. Thanks to chance and the internet, luckily, we found this superb band and this awesome album. Sweet Years let&rsquo;s the music go wherever it wants, supported by dark and sometimes very funny lyrics. If the music needs to change the mood or tempo - well it does. It&rsquo;s something of a rollercoaster to listen to this album, just hang on tight - like the real thing; it&rsquo;s so worth it! Is it punk or post-punk or something else? Maybe Sweet Years doesn&rsquo;t have a label and is just different states of mind. We are so happy to share the 7th best album of the year; buckle up!</div>\n<div class=\"spotifyembed\"><iframe width=\"300\" height=\"380\" src=\"https://open.spotify.com/embed/album/4HryuXndxBBkzC2smOvjvP\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n<div style=\"clear: both;\">&nbsp;</div>",
-            "image": "http://atunethat.com/media/posts/10/julkalender.png",
-            "author": {
-                "name": "ATuneThat"
-            },
-            "tags": [
-                   "Yule Calendar",
-                   "2017"
-            ],
-            "date_published": "2017-12-08T15:46:00+01:00",
-            "date_modified": "2017-12-08T15:46:00+01:00"
         }
     ]
 }
