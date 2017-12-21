@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "http://atunethat.com/top-tunes-2017-jason-isbell-if-we-were-vampires.html",
+            "url": "http://atunethat.com/top-tunes-2017-jason-isbell-if-we-were-vampires.html",
+            "title": "Top tunes 2017 #2",
+            "content_html": "<h3 class=\"align-center\">Jason Isbell - If We Were Vampires</h3>\n<br>\n<div class=\"posttext\">Be it by chance or design but apparently sometimes even the Grammy jury get it right. This is however the only instance where anything on our lists have been nominated for a grammy this year; much outrage, very sad wow. Seriously though, This tune is profoundly philosophical as well as gut wrenchingly sad while also surprisingly warm. Inspiringly optimistic while terminally dark, gentle yet brutal. However most importantly it is epicly beautiful.<br> </div>\n<div class=\"spotifyembed\"><iframe width=\"300\" height=\"380\" src=\"https://open.spotify.com/embed/track/250RLekaiL1q9qZer975Eg\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n<div style=\"clear: both;\"> </div>",
+            "image": "http://atunethat.com/media/posts/24/julkalender.png",
+            "author": {
+                "name": "ATuneThat"
+            },
+            "tags": [
+                   "Yule Calendar",
+                   "2017"
+            ],
+            "date_published": "2017-12-21T16:54:00+01:00",
+            "date_modified": "2017-12-21T16:54:00+01:00"
+        },
+        {
             "id": "http://atunethat.com/top-albums-2017-elder-reflections-of-a-floataing-world.html",
             "url": "http://atunethat.com/top-albums-2017-elder-reflections-of-a-floataing-world.html",
             "title": "Top albums 2017 #3",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2017-12-12T19:24:00+01:00",
             "date_modified": "2017-12-12T19:24:00+01:00"
-        },
-        {
-            "id": "http://atunethat.com/roo-honourable-mentions-tunes-2017.html",
-            "url": "http://atunethat.com/roo-honourable-mentions-tunes-2017.html",
-            "title": "Roo: Top tunes honourable mentions",
-            "content_html": "<h3 class=\"align-center\">Roo&rsquo;s honourable mentions; tunes</h3>\n<br>\n<div class=\"posttext\">There has been so many good tunes this year and only two handfuls made it to our top list. I have created a playlist with 12 tunes that I for one reason or another think deserves some extra attention. Let's get to it: <br>\n<h6>Culture Abuse - So Busted</h6>\nI just want to be eighteen with a mohawk riding a skateboard when I listen to this punk tune, but then again my life is so busted.\n<h6>Wilderado - Petra Rae</h6>\nThank you Petra Rae for this slow builder with great falsetto - goosebumps in the face!\n<h6>Vulfpeck - Baby I Don't Know Oh Oh</h6>\nCharles Jones playfulness at the end when sings harmonies with the instruments; dang!\n<h6>Diet Cig - Tummy Ache</h6>\nI&rsquo;ve been singing &ldquo;It&rsquo;s hard to be a punk while wearing skirt&rdquo;, all year.\n<h6>Meursault - Klopfgeist</h6>\nThis ghost story is so beautiful you might start believing in the other side.\n<h6>Nnamdi Ogbonnaya - let gO Of my egO</h6>\nIt&rsquo;s hard to describe this loco, totally crazy tune, don&rsquo;t miss the backing track; love it!\n<h6>Mattias Alkberg - Obeskjuten</h6>\nDeals with the sickening racist opinions out there, in a beautiful way; it&rsquo;s as good as it is important.\n<h6>Shallow Lenses - Take It to the Table</h6>\nThey are actually singing about my silly little life and I think they nail it, but no I wouldn't bet it all on black.\n<h6>Hanne Hukkelberg - Fall</h6>\nWhen the kid in the background shouts ; &ldquo;Kom igen nu...&rdquo;: I am indeed falling for this tune that everybody should be dancing to!\n<h6>Bolywool - Mirror Sky</h6>\nJust thinking of the outro is giving me goosebumps, you must listen to it - it&rsquo;s awesome!\n<h6>Tica Douglas - The Same Thing</h6>\nThe organ at 4:25; is golden, short and sweet, in this dystopian waltz.\n<h6>The Flying Stars Of Brooklyn NY - My God Has A Telephone</h6>\nMakes this non believer wish he has that funky telephone.</div>\n<div class=\"spotifyembed\"><iframe width=\"300\" height=\"600\" src=\"https://open.spotify.com/embed/user/roobine/playlist/1b60FtkzUxYOdFIIvDBf5o\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n<div style=\"clear: both;\">&nbsp;</div>",
-            "image": "http://atunethat.com/media/posts/13/julkalender.png",
-            "author": {
-                "name": "ATuneThat"
-            },
-            "tags": [
-                   "Yule Calendar",
-                   "2017"
-            ],
-            "date_published": "2017-12-11T19:13:00+01:00",
-            "date_modified": "2017-12-11T19:13:00+01:00"
         }
     ]
 }
