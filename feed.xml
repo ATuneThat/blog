@@ -3,12 +3,41 @@
     <title>a-tune-that</title>
     <link href="http://atunethat.com/feed.xml" rel="self" />
     <link href="http://atunethat.com" />
-    <updated>2017-12-24T13:42:18+01:00</updated>
+    <updated>2017-12-25T10:58:05+01:00</updated>
     <author>
         <name>Roo</name>
     </author>
     <id>http://atunethat.com</id>
 
+    <entry>
+        <title> A tune that is great for christmas</title>
+        <author>
+            <name>ATuneThat</name>
+        </author>
+        <link href="http://atunethat.com/is-great-for-christmas.html"/>
+        <id>http://atunethat.com/is-great-for-christmas.html</id>
+            <category term="Yule Calendar"/>
+            <category term="2017"/>
+
+        <updated>2017-12-25T15:46:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://atunethat.com/media/posts/28/julkalender.png" alt="" />
+                <h3 class="align-center">A tune that is great for christmas</h3>
+<br>
+<div class="posttext">Half of us loves christmas tunes and one half loathes them. This playlist is as much for the Hater half as it is for the rest of you. It it simply put the best christmas playlist ever put together and is a honest try to pierce the heart of the other half of us with the spear of christmas tune love.</div>
+<div class="posttext"> </div>
+<div class="posttext">The journey begins with Moto Boy's magical version of Ave Maria, and what follows is a string of classic cozy christmas tunes. The list might be a bit heavy on the jazz side, but then again can that side really be to heavy? The name of the king of christmas tunes ain't Bing, Elvis or Shane, it's not even a king; it's a queen and her name is Ella. The wonderful Ella Fitzgerald found her way into the list with quite a lot of songs, as it should be. No christmas is complete without Jussi singing O Helga Natt(O holy night) for everything he is worth - pure gold, so he gets to wrap up this fantastic playlist.</div>
+<div class="posttext"> </div>
+<div class="posttext">Treat yourself with something good to drink, sit yourself down in a comfy chair and enjoy these mood enhancing carrols (that goes for you to, Hater).</div>
+<div class="posttext"> </div>
+<div class="posttext">Merry christmas and God Jul! <br> </div>
+<div class="spotifyembed"><iframe width="300" height="600" src="https://open.spotify.com/embed/user/roobine/playlist/0bYD7EexajNa03ImBMCH4Y" frameborder="0" allowtransparency="true"></iframe></div>
+<div style="clear: both;"> </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Top albums 2017 #1</title>
         <author>
@@ -220,29 +249,6 @@
 <br>
 <div class="posttext">Much of the most anticipated as well as celebrated releases of 2017 where in some way shape or form related to Post-Rock. We had new releases from both Mogwai and Do Make Say Think as well as releases by electronical outfits bordering on Post-Rock such as Forest Swords as well as Bonobo. All excellent and surely worthy of this list were it not for Luciferian Tower just barging in, shoving the others to the side. 24 years into their career this is only Godspeed You! Black Emperor&rsquo;s 6th studio album. It would seem that they employ fairly strict quality controls on their material.</div>
 <div class="spotifyembed"><iframe width="300" height="380" src="https://open.spotify.com/embed/album/2eOMttZbB9lBc9LLMj56xj" frameborder="0" allowtransparency="true"></iframe></div>
-<div style="clear: both;">&nbsp;</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Top tunes 2017 #5</title>
-        <author>
-            <name>ATuneThat</name>
-        </author>
-        <link href="http://atunethat.com/top-tunes-2017-cende-what-i-want.html"/>
-        <id>http://atunethat.com/top-tunes-2017-cende-what-i-want.html</id>
-            <category term="Yule Calendar"/>
-            <category term="2017"/>
-
-        <updated>2017-12-15T20:26:00+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://atunethat.com/media/posts/18/julkalender.png" alt="" />
-                <h3 class="align-center">Cende - What I Want</h3>
-<br>
-<div class="posttext">When you&rsquo;ve crafted such a great melody as Cende has on this track, it&rsquo;s totally understandable that they lend it to another tune on the same album. That is perfectly alright. The melody is exquisite, and the dynamic between Cameron Wisch and Greta Kline&rsquo;s voices, is just perfect. This is an all you can wish for indie rock tune, and it is shining on the fifth place on this top list of ours.</div>
-<div class="spotifyembed"><iframe width="300" height="380" src="https://open.spotify.com/embed/track/7Cg84GbvvQxKkZOXRjKQKw" frameborder="0" allowtransparency="true"></iframe></div>
 <div style="clear: both;">&nbsp;</div>
             ]]>
         </content>
